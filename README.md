@@ -7,6 +7,11 @@ filecontent
 - model.py: contains the model that implements the chains.
 - main.py: contains the fastapi endpoint.
 
+### Flowchart
+Below is a  flowchart of the designed system
+<img src="files/flow.png" alt="chatbot flow" width="700" height="400" />
+
+
 ### Conclusion
 The **Custom Functional Agents** bot delivered the core function a and b. several approach were carried out to meet the projects goal. the bot is able to answer questions on the csv dummy dataset on housing/apartment. it can provide information about the apartments dataset. if users are requesting to make a purchase of an apartment, it collect some basic informations and executes a purchase function. Tho no validation was carried out for the scope of this project for making sure apartments exist or can be purchased. further improvement can be carried out in a more relaxable timeframe. due to the timeframe, core function c was skipped.
 
